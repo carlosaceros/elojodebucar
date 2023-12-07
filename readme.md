@@ -12,3 +12,4 @@ DE CLASIFICACIÓN:
 3. SVC
 4. RED NEURONAL MLPC
    
+URL YOUTUBE: https://youtu.be/VRd1Bpcu1DQ
